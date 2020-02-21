@@ -1,23 +1,8 @@
 package main
 
-import {
+func init() {
 }
 
-func init(){
-
-
-
+func main() {
+	print("just test")
 }
-
-
-func main(){
-
-
-
-}
-
-
-
-
-
-
